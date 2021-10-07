@@ -1,4 +1,4 @@
-def anagram(s, ):
+def anagram(s,t):
     string = len(s)
     substring = len(t)
     # edge conditions
